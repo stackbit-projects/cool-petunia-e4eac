@@ -13,7 +13,7 @@ export default class SectionHero extends React.Component {
                 <div className="grid">
                   {_.get(section, 'image', null) && (
                   <div className="cell block-preview">
-                    <img style={{ width: 250,borderRadius: '50%' }} src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
+                    <img style={{ width: 500,borderRadius: '50%' }} src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
                   </div>
                   )}
                   <div className="cell block-content">
