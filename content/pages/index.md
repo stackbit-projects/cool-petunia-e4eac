@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/interesting-stegosaurus.jpeg
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: Clara Revelli
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
